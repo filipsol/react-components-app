@@ -37,7 +37,7 @@ jobs:
         - name: Publish to Chromatic
           uses: chromaui/action@v1
           with:
-            projectToken: ${{secrets.CHROMATIC_PROJECT_TOKEN}}
+            projectToken: 'chpt_573c5b40c78a20b'
 
 
   
